@@ -85,13 +85,8 @@ The model achieved the following metrics (example placeholder):
 
 Check the detailed analysis and results in the notebook.
 
----
-
-## **Author**
-[Poulami Nandi](https://www.linkedin.com/in/poulami-nandi-a8a12917b/)
 
 ---
 
 ## **Contact**
-- **Email:** [nandi.poulami91@gmail.com](mailto:nandi.poulami91@gmail.com)
 - **GitHub Repository:** [Used Car Price Prediction](https://github.com/Poulami-Nandi/UsedCarPrice_XGB)
