@@ -80,8 +80,8 @@ pip install -r requirements.txt
 ## **Results**
 The model achieved the following metrics (example placeholder):
 
-- Validation RMSE: `1.234`
-- Public Leaderboard Score: `0.5678`
+- Validation RMSE: `Hyperparam tuning ongoing`
+- Public Leaderboard Score: 
 
 Check the detailed analysis and results in the notebook.
 
